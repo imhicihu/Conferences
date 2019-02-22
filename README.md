@@ -1,7 +1,5 @@
 ![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
-![status-archived](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
-![issues-closed](https://img.shields.io/badge/issues-closed-green.svg)
 ![issues-open](https://img.shields.io/badge/issues-open-green.svg)
 
 # RATIONALE #
@@ -18,9 +16,9 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - In the run
+    - _In the making_
 * Configuration
-    - In the making
+    - _In the making_
 * Dependencies
     - NPM
 	- React Native
