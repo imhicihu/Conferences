@@ -51,4 +51,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the MIT licence 
+* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
