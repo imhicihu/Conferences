@@ -25,6 +25,9 @@
 * Deployment instructions
     - In the making
 
+### Related repositories ###
+* [Streaming](https://bitbucket.org/imhicihu/streaming/src)
+
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/conference/src)
