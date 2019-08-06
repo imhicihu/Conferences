@@ -23,10 +23,12 @@
     - NPM
 	- React Native
 * Deployment instructions
-    - In the making
+    - Since it will be a mobile app (think Android platform), it is a closed-solution. So, there is no deployment instruction as possible.
 
 ### Related repositories ###
 * [Streaming](https://bitbucket.org/imhicihu/streaming/src)
+* [Proxy access](https://bitbucket.org/imhicihu/proxy-access/src/)
+* [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/)
 
 ### Source ###
 
