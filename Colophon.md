@@ -2,6 +2,8 @@
     - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
 * Time zone
     - [Time Zone Converter](https://timezoneconverterapp.com/#download)
+* GIT workflow
+    - [SourceTree](https://www.sourcetreeapp.com/): GIT client
 * Presentation (online)
     - [Speaker Deck](https://speakerdeck.com/): share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience.
 * WIFI signal scanning
