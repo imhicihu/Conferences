@@ -27,6 +27,7 @@
 
 ### Related repositories ###
 * [Streaming](https://bitbucket.org/imhicihu/streaming/src)
+* [Presentations, norms, checklist](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/)
 * [Proxy access](https://bitbucket.org/imhicihu/proxy-access/src/)
 * [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/)
 
