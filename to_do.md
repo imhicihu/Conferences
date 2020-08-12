@@ -1,3 +1,4 @@
+## Good practices ##
 * Lenguaje neutro
 * coding styling (do!)
 * [semver](https://semver.org/) (check this out!) ∣ versión del código
