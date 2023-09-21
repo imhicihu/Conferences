@@ -1,4 +1,4 @@
-## Software
+### Software
 * Data validator
     - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
 * Image treatment
@@ -24,6 +24,6 @@
         - [Notepad++](https://notepad-plus-plus.org/)
         - [Brackets](http://brackets.io/)
         
-## Online tools
+### Online tools
 * User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
