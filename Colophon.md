@@ -2,7 +2,7 @@
 * Data validator
     - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
 * Image treatment
-    - [Image Shrinke](https://github.com/stefansl/image-shrinker): minify images and graphics
+    - [Image Shrinker](https://github.com/stefansl/image-shrinker): minify images and graphics
 * Time zone
     - [Time Zone Converter](https://timezoneconverterapp.com/#download)
 * GIT workflow
